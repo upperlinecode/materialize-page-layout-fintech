@@ -7,8 +7,7 @@ Now that you know one of the tools used by professionals, it's time to take on a
 ### Getting Started
 
 1. Clone this repository using `git clone`
-2. `cd` into the `materialize-page-layout-fintech` folder
-3. Open the file `index.html` and preview it. You won't see much here yet!
+2. Open the file `index.html` and preview it. You won't see much here yet!
 
 ## The Lab
 You will be using Materialize's Grid and Components to replicate the website of your host financial services firm. Because we'll just be using HTML and CSS, none of the interactive pieces will actually work -- you can think of this as a non-functional replica of the page. Focus on the layout pieces first -- smaller details can be added later. We suggest you start with the nav bar and work your way down the page! Please note: you must replicate the assigned page of the firm that is hosting you this summer. 
